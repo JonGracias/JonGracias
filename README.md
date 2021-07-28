@@ -2,22 +2,24 @@
   <p><em>Computer science student at <a href="http://www.frederick.edu">Frederick Community College </a><img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="50">
   
 ### <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="50">   A little more about me...  
+  
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="360px"/>
 
-
-
-
-
-
+- &nbsp; I was a professional chef for 13 years at a Michelin star Restaurant 
+- &nbsp; During my free time I would study programming languages, computer graphics and photo editing 
+- &nbsp; I’m currently working on An algorithmically designed video game
+- &nbsp; I’m currently learning C++; 
+- &nbsp; When I am free, I like to cook large meals for family and friends
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/jonGracias/github-stats-transparent'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongracias&show_icons=true&theme=dark&layout=compact)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongracias&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongracias&show_icons=true&theme=dark&layout=compact)]
 
-</a>
+
 
 <br>
 
