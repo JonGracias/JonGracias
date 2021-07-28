@@ -9,7 +9,11 @@
 - &nbsp; During my free time I would study programming languages, computer graphics and photo editing 
 - &nbsp; I’m currently working on An algorithmically designed video game
 - &nbsp; I’m currently learning C++; 
+- &nbsp; I will recieve an A.S. in computer science from Frederick community college May 2022
+- &nbsp; I plan transfer to the University of Maryland for Bachelor's degree in computer science, Fall 2022
 - &nbsp; When I am free, I like to cook large meals for family and friends
+- &nbsp; I am very good at studying and love to learn new things
+  
 <br>
 
 ### 📊 Github Stats
