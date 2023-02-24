@@ -1,26 +1,16 @@
-  <h1>Hi, I’m Jon! <img src="https://media.giphy.com/media/l378B1B0BqDHJPmJG/giphy.gif" width="100"></h1>
-  <p><em>Computer science student at <a href="http://www.frederick.edu">Frederick Community College </a><img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="50">
-  
-### <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="50">   A little more about me...  
-  
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="360px"/>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile Page</title>
+    <style>
+        /* Your CSS styles go here */
+    </style>
+</head>
+<body>
+    <!-- Your content goes here -->
+</body>
+</html>
 
-- &nbsp; I was a professional chef for 13 years at a Michelin star Restaurant 
-- &nbsp; During my free time I would study programming languages, computer graphics and photo editing 
-- &nbsp; I’m currently working on An algorithmically designed video game
-- &nbsp; I’m currently learning C++; 
-- &nbsp; I will recieve an A.S. in computer science from Frederick community college May 2022
-- &nbsp; I plan transfer to the University of Maryland for Bachelor's degree in computer science, Fall 2022
-- &nbsp; When I am free, I like to cook large meals for family and friends
-- &nbsp; I am very good at studying and love to learn new things
-  
-<br>
-
-### 📊 Github Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongracias&show_icons=true&theme=dark&layout=compact)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongracias&show_icons=true&theme=dark)
 
 
 
