@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Profile Page</title>
-    <style>
-        /* Your CSS styles go here */
-    </style>
-</head>
-<body>
-    <!-- Your content goes here -->
-</body>
-</html>
-
-
-
-
-
-<br>
+Hi my name is Jon Gracias
 
 <!---
 JonGracias/JonGracias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
